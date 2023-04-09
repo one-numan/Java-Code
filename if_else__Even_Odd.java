@@ -1,7 +1,7 @@
 // Question Check Input Number is Even Odd
 // Take the Input from User
-//  Cost Price
-// Return How much profit or loss or no profit or no loss
+//  Number
+// print Even or Odd
 
 import java.util.Scanner;
 
