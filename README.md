@@ -3,3 +3,5 @@ Basic Java , I wrote these Question When I was in Engineering , If You are Begin
 
 ## Basic Of If Else Old Code Added 
 * Check Leap Year 
+* Check Profit and Loss 
+
